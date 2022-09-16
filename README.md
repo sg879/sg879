@@ -4,6 +4,7 @@ I am a recent (2022) M.Eng graduate from the University of Cambridge, specialisi
 ### Languages and Frameworks
 <p style="display:flex; justify-content: center; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" width="48"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
