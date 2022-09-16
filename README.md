@@ -1,6 +1,5 @@
-### Hi there 👋
-# 👋 Hi, I’m Simon.
-I am a recent M.Eng graduate from the University of Cambridge, specialising in Information Engineering.
+### 👋 Hi, I’m Simon.
+I am a recent (2022) M.Eng graduate from the University of Cambridge, specialising in Information Engineering.
 
 ### Languages and Frameworks
 <p style="display:flex; justify-content: center; flex-wrap: wrap;">
